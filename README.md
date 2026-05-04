@@ -2,7 +2,7 @@
 # Hi,👋 I'm Khursheed
 
 
-Software engineer who loves backend and cloud-native technologies. I build reliable backend services, scalable cloud-native systems, and pragmatic web apps with a focus on observability, automation, and maintainability.
+Aspiring Cloud Engineer who loves exploring cloud native technologies and backend work. 
 
 ---
 
